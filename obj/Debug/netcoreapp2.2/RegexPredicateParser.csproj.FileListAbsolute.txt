@@ -1,0 +1,11 @@
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\obj\Debug\netcoreapp2.2\RegexPredicateParser.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\obj\Debug\netcoreapp2.2\RegexPredicateParser.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\obj\Debug\netcoreapp2.2\RegexPredicateParser.AssemblyInfoInputs.cache
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\obj\Debug\netcoreapp2.2\RegexPredicateParser.AssemblyInfo.cs
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\bin\Debug\netcoreapp2.2\RegexPredicateParser.deps.json
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\bin\Debug\netcoreapp2.2\RegexPredicateParser.runtimeconfig.json
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\bin\Debug\netcoreapp2.2\RegexPredicateParser.runtimeconfig.dev.json
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\bin\Debug\netcoreapp2.2\RegexPredicateParser.dll
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\bin\Debug\netcoreapp2.2\RegexPredicateParser.pdb
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\obj\Debug\netcoreapp2.2\RegexPredicateParser.dll
+C:\Users\Farid\source\repos\RegexPredicateParser\RegexPredicateParser\obj\Debug\netcoreapp2.2\RegexPredicateParser.pdb
